@@ -1,0 +1,702 @@
+{
+   "All_cases": [
+     {
+       "id": 1,
+       "caseId": "4737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. John",
+       "email": "srinivasFu.attili@stryker.com",
+       "uploadTime": "2023-01-09T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 2,
+       "caseId": "5737F98D-F46C-4FB6-9D15-48142B2E35B6",
+       "userName": "Manjunath HS",
+       "surgeon": "Dr. Ravi",
+       "email": "manjunath.hs@stryker.com",
+       "uploadTime": "2023-01-05T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 3,
+       "caseId": "6737F98D-DGVS-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Smith",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2023-01-01T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 4,
+       "caseId": "7737F98D-F46C-4FB6-1D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Ravi",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2023-01-06T16:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 5,
+       "caseId": "9737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Ravi",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2023-01-08T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 6,
+       "caseId": "4437F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. John",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2023-01-03T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Test-MN",
+       "isCustomPref": true
+     },
+     {
+       "id": 7,
+       "caseId": "8837F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Manjunath HS",
+       "surgeon": "Dr. Ravi",
+       "email": "manjunath.hs@stryker.com",
+       "uploadTime": "2023-01-05T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "New-IW",
+       "isCustomPref": true
+     },
+     {
+       "id": 8,
+       "caseId": "1737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Ravi",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2023-01-09T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 9,
+       "caseId": "2737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Smith",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2023-01-01T12:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref1 - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 10,
+       "caseId": "3737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Smith",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2023-01-08T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 11,
+       "caseId": "3237F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Harsha",
+       "surgeon": "Dr. Smith",
+       "email": "harsha.r@stryker.com",
+       "uploadTime": "2023-01-02T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 12,
+       "caseId": "3337F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Harsha",
+       "surgeon": "Dr. Smith",
+       "email": "harsha.r@stryker.com",
+       "uploadTime": "2023-01-04T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Test - IN",
+       "isCustomPref": true
+     },
+     {
+       "id": 13,
+       "caseId": "3437F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Smith",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-12-09T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 14,
+       "caseId": "3537F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Manjunath HS",
+       "surgeon": "Dr. Roy",
+       "email": "manjunath.hs@stryker.com",
+       "uploadTime": "2022-12-05T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 15,
+       "caseId": "2637F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Roy",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2022-12-01T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 16,
+       "caseId": "3637F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Morgan",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2022-12-06T16:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 17,
+       "caseId": "3937F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Morgan",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-12-08T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 18,
+       "caseId": "6637F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Morgan",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-12-03T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Test-MN",
+       "isCustomPref": true
+     },
+     {
+       "id": 19,
+       "caseId": "6137F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Manjunath HS",
+       "surgeon": "Dr. Roy",
+       "email": "manjunath.hs@stryker.com",
+       "uploadTime": "2022-12-05T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "New-IW",
+       "isCustomPref": true
+     },
+     {
+       "id": 20,
+       "caseId": "4437F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. John",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-12-09T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 21,
+       "caseId": "9137F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Morgan",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2022-12-01T12:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref1 - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 22,
+       "caseId": "9237F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Bill",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2022-12-08T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 23,
+       "caseId": "9337F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Harsha",
+       "surgeon": "Dr. John",
+       "email": "harsha.r@stryker.com",
+       "uploadTime": "2022-12-02T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 24,
+       "caseId": "9937F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Harsha",
+       "surgeon": "Dr. Bill",
+       "email": "harsha.r@stryker.com",
+       "uploadTime": "2022-12-04T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Test - IN",
+       "isCustomPref": true
+     },
+     {
+       "id": 25,
+       "caseId": "6237F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Morgan",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2022-12-01T12:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref1 - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 26,
+       "caseId": "6337F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. John",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2022-12-08T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 27,
+       "caseId": "6437F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Harsha",
+       "surgeon": "Dr. Morgan",
+       "email": "harsha.r@stryker.com",
+       "uploadTime": "2022-12-02T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Narrow",
+       "isCustomPref": false
+     },
+     {
+       "id": 28,
+       "caseId": "6537F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Harsha",
+       "surgeon": "Dr. Morgan",
+       "email": "harsha.r@stryker.com",
+       "uploadTime": "2022-12-04T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Test - IN",
+       "isCustomPref": true
+     },
+     {
+       "id": 29,
+       "caseId": "6637F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Morgan",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-11-09T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 30,
+       "caseId": "0737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Manjunath HS",
+       "surgeon": "Dr. John",
+       "email": "manjunath.hs@stryker.com",
+       "uploadTime": "2022-11-05T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 31,
+       "caseId": "6837F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Bill",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2022-11-01T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 32,
+       "caseId": "6937F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Roy",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2022-11-06T16:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 33,
+       "caseId": "4737F98A-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Roy",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2022-11-01T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 34,
+       "caseId": "4737F98B-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Bill",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2022-11-06T16:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 35,
+       "caseId": "4737F98C-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Bill",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-10-09T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 36,
+       "caseId": "4737F98E-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Manjunath HS",
+       "surgeon": "Dr. John",
+       "email": "manjunath.hs@stryker.com",
+       "uploadTime": "2022-10-05T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 37,
+       "caseId": "4737F98F-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Rudraraju",
+       "surgeon": "Dr. Roy",
+       "email": "rudraraju.sai@stryker.com",
+       "uploadTime": "2022-10-01T13:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Mecanical Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 38,
+       "caseId": "4737F98G-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Selvaraj",
+       "surgeon": "Dr. Roy",
+       "email": "selvaraj.v@stryker.com",
+       "uploadTime": "2022-10-06T16:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "My Custom Pref - MW",
+       "isCustomPref": true
+     },
+     {
+       "id": 39,
+       "caseId": "4737F98H-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. Bill",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-09-08T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 40,
+       "caseId": "4737F98I-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Srinivas Attili",
+       "surgeon": "Dr. John",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2022-09-03T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Test-MN",
+       "isCustomPref": true
+     },
+     {
+       "id": 41,
+       "caseId": "4737F98I-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Madhumitha",
+       "surgeon": "Dr. John",
+       "email": "madhu@stryker.com",
+       "uploadTime": "2022-09-03T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Test-MN",
+       "isCustomPref": true
+     },
+     {
+       "id": 42,
+       "caseId": "9737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Shruti varik",
+       "surgeon": "Dr. Ranusha",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2024-05-10T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Wide",
+       "isCustomPref": false
+     },
+     {
+       "id": 43,
+       "caseId": "9737F98D-F46C-4FB6-9D15-48142B2E35B5",
+       "userName": "Sreya naik",
+       "surgeon": "Dr. Radha",
+       "email": "srinivasu.attili@stryker.com",
+       "uploadTime": "2024-05-13T15:27:00.000",
+       "modifiedSolAvailable": false,
+       "preference": "Individual Wide",
+       "isCustomPref": false
+     },
+     {
+            "id": 44,
+            "caseId": "9737F98D-F46C-4FB6-9D15-48142B2E35B5",
+            "userName": "Shruti varik",
+            "surgeon": "Dr. Ranusha",
+            "email": "srinivasu.attili@stryker.com",
+            "uploadTime": "2024-05-14T15:27:00.000",
+            "modifiedSolAvailable": false,
+            "preference": "Individual Wide",
+            "isCustomPref": false
+         }
+   ],
+   
+   "Hospitals": {
+     "India":
+      [
+       {
+         "Region": "India",
+         "HospitalName": "Apollo",
+         "Users": 5,
+         "Surgeons": 7
+       },
+       { 
+        "Region": "India",
+         "HospitalName": "Jayadeva",
+         "Users": 3,
+         "Surgeons": 4
+       }
+     ],
+     "Australia": [
+       { 
+        "Region": "Australia",
+         "HospitalName": "WockHardt",
+         "Users": 5,
+         "Surgeons": 2
+       },
+       {
+        "Region": "Australia",
+         "HospitalName": "Nusi",
+         "Users": 7,
+         "Surgeons": 4
+       },
+       {
+        "Region": "Australia",
+         "HospitalName": "MedPlus",
+         "Users": 4,
+         "Surgeons": 5
+       },
+       {
+        "Region": "Australia",
+         "HospitalName": "Coloumbia",
+         "Users": 4,
+         "Surgeons": 2
+       },
+       {
+        "Region": "Australia",
+         "HospitalName": "Horizon",
+         "Users": 8,
+         "Surgeons": 3
+       },
+       {
+        "Region": "Australia",
+         "HospitalName": "Trimurti",
+         "Users": 5,
+         "Surgeons": 5
+       }
+     ],
+     "Europe": [
+       {
+        "Region": "Europe",
+         "HospitalName": "Alex",
+         "Users": 1,
+         "Surgeons": 2
+       },
+       {
+        "Region": "Europe",
+         "HospitalName": "ACMH",
+         "Users": 5,
+         "Surgeons": 7
+       },
+       {
+        "Region": "Europe",
+         "HospitalName": "Aurora",
+         "Users": 2,
+         "Surgeons": 5
+       },
+       {
+        "Region": "Europe",
+         "HospitalName": "Bakerfield",
+         "Users": 6,
+         "Surgeons": 7
+       },
+       {
+        "Region": "Europe",
+         "HospitalName": "Carteret",
+         "Users": 5,
+         "Surgeons": 4
+       }
+     ],
+     "Japan": [
+       {
+        "Region": "Japan",
+         "HospitalName": "Aichi",
+         "Users": 4,
+         "Surgeons": 2
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Chiba",
+         "Users": 1,
+         "Surgeons": 2
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Hiroshima",
+         "Users": 6,
+         "Surgeons": 3
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Iwate",
+         "Users": 3,
+         "Surgeons": 2
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Kagoshima",
+         "Users": 2,
+         "Surgeons": 5
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Nagasaki",
+         "Users": 4,
+         "Surgeons": 6
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Osaka",
+         "Users": 2,
+         "Surgeons": 4
+       },
+       {
+        "Region": "Japan",
+         "HospitalName": "Tokyo",
+         "Users": 8,
+         "Surgeons": 8
+       }
+     ]
+   },
+
+   
+ "Surgeons": [
+   {
+     "Name": "Dr. John",
+     "HospitalName": ["WockHardt", "Trimurti"],
+     "Users": [
+       "Madhumitha",
+       "Srinivas Attili",
+       "Harsha",
+       "Rudraraju",
+       "Manjunath HS"
+     ]
+   },
+   {
+     "Name": "Dr. Ravi",
+     "HospitalName": ["Apollo"],
+     "Users": [
+       "Selvaraj",
+       "Srinivas Attili",
+       "Manjunath HS"
+     ]
+   },
+   {
+     "Name": "Dr. Smith",
+     "HospitalName": ["Nusi"],
+     "Users": [
+       "Selvaraj",
+       "Srinivas Attili",
+       "Harsha",
+       "Rudraraju"
+     ]
+   },
+   {
+     "Name": "Dr. Roy",
+     "HospitalName": ["MedPlus"],
+     "Users": [
+       "Selvaraj",
+       "Rudraraju",
+       "Manjunath HS"
+     ]
+   },
+   {
+     "Name": "Dr. Morgan",
+     "HospitalName": ["Coloumbia"],
+     "Users": [
+       "Selvraj",
+       "Srinivas Attili",
+       "Harsha"
+     ]
+   },
+   {
+     "Name": "Dr. Bill",
+     "HospitalName": ["Horizon"],
+     "Users": [
+       "Selvaraj",
+       "Srinivas Attili",
+       "Harsha",
+       "Rudraraju"
+     ]
+   },
+   {
+     "Name": "Dr. Ranusha",
+     "HospitalName": ["Apollo"],
+     "Users": [
+       "Shruti varik"
+     ]
+   },
+   {
+     "Name": "Dr. Radha",
+     "HospitalName": ["Jayadeva"],
+     "Users": [
+       "Sreya naik"
+     ]
+   }
+ ]
+}
