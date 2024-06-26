@@ -16,6 +16,26 @@
   -->
   <base href="./">
 
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyDPJWcqpZmcDYBM4lkOtPsuGMKOvSmYzWo",
+      authDomain: "kbportal-b4311.firebaseapp.com",
+      projectId: "kbportal-b4311",
+      storageBucket: "kbportal-b4311.appspot.com",
+      messagingSenderId: "611044287153",
+      appId: "1:611044287153:web:6ed81c894b0e1cd439b890"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+  </script>
+  
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
@@ -37,7 +57,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    const serviceWorkerVersion = "4236577786";
+    const serviceWorkerVersion = "2359697451";
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {

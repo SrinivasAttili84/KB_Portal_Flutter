@@ -476,7 +476,7 @@
      {
             "id": 44,
             "caseId": "9737F98D-F46C-4FB6-9D15-48142B2E35B5",
-            "userName": "Shruti varik",
+            "userName": "Test user",
             "surgeon": "Dr. Ranusha",
             "email": "srinivasu.attili@stryker.com",
             "uploadTime": "2024-05-14T15:27:00.000",
@@ -698,5 +698,79 @@
        "Sreya naik"
      ]
    }
- ]
+ ],
+
+ "Events":
+  [
+    {
+      "deviceId": "E506788E-009B-4204-8EFB-07646E8FB965",
+      "caseId": "",
+      "properties": {
+        "Launched Knee Balancer App": true
+      },
+      
+      "event": "App Launch",
+      "timeStamp": "1717737232"
+    },
+    {
+      "deviceId": "E506788E-009B-4204-8EFB-07646E8FB965",
+      "caseId": "A75FBC90-424A-4A06-81DF-53984F1399CA",
+      "properties": {
+        "Case is added successfully by tap on Proceed button": true
+      },
+      "event": "E2 - Proceed Action in Add case Screen",
+      "timeStamp": "1717737281"
+      
+    },
+    {
+      "deviceId": "E506788E-009B-4204-8EFB-07646E8FB965",
+      "caseId": "A75FBC90-424A-4A06-81DF-53984F1399CA",
+      "properties": {
+        "Navigated successfully from Initial position to upcoming case screen after storing the changes in DB": true
+      },
+      "event": "E6 - Home Action in Initial position screen",
+      "timeStamp": "1717737287"
+    }
+  ],
+
+  "Errors": 
+  {
+    "Srinivas Attili": 
+    [
+    {
+      "email": "srinivasFu.attili@stryker.com",
+      "timeStamp": "1717737232",
+      "Description": "The operation couldn’t be completed. (Knee_Balancer_Dev.AuthError error 2.)"
+    },
+    {
+      "email": "srinivasFu.attili@stryker.com",
+      "timeStamp": "1717737281",
+      "Description": "The operation couldn’t be completed. (Knee_Balancer_Dev.AuthError error 2.)"
+    },
+    {
+      "email": "srinivasFu.attili@stryker.com",
+      "timeStamp": "1717737287",
+      "Description": "The operation couldn’t be completed. (Knee_Balancer_Dev.AuthError error 2.)"
+    }
+    ],
+  "Madhumitha": [
+    {
+      "email": "madhu@stryker.com",
+      "timeStamp": "1717737232",
+      "Description": "The operation couldn’t be completed. (Knee_Balancer_Dev.AuthError error 2.)"
+    },
+    {
+      "email": "madhu@stryker.com",
+      "timeStamp": "1717737281",
+      "Description": "The operation couldn’t be completed. (Knee_Balancer_Dev.AuthError error 2.)"
+    }
+  ],
+  "Harsha": [
+    {
+      "email": "harsha.r@stryker.com",
+      "timeStamp": "1717737232",
+      "Description": "The operation couldn’t be completed. (Knee_Balancer_Dev.AuthError error 2.)"
+    }
+  ]
+  }
 }
